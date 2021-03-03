@@ -5,7 +5,7 @@
     "imdb": "7,3",
     "sure": "124 dk",
     "konu": "Nicole’ün yaşamak için sadece altı ayı kalmıştır. Hastalığı nedeniyle karısının öleceğini öğrenen Matthew, büyük bir yıkıma uğrar. Onları bu zorlu dönemlerinde yalnız bırakmak istemeyen Matthew’ın en yakın arkadaşı, destek olabilmek için çiftin evine taşınmaya karar verir.",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/arkadas.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/arkadas.jpg"
   },
   {
     "isim": "Esaretin Bedeli",
@@ -13,7 +13,7 @@
     "imdb": "9,3",
     "sure": "142 dk",
     "konu": "Eyalet Hapishanesinde ömür boyu hapis cezasına çarptırıldı. Oradayken, bir mahkum ve hapishane kaçakçısı olan Ellis Red Redding ile arkadaş olur ve aynı zamanda ömür boyu hapis cezası çeker.",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/esaretinbedeli.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/esaretinbedeli.jpg"
   },
   {
     "isim": "Forest Gump",
@@ -21,7 +21,7 @@
     "imdb": "9,4",
     "sure": "142 dk",
     "konu": "Forrest Gump, zeka seviyesi 75 olan bir erkektir. Zeka seviyesi düşük olduğu için devlet okullarına girmekte bile zorlanan Forrest Gump zamanla akla kendisinden beklenmeyen başarılara imza atıyor.Zeka seviyesi düşük olsa da fiziksel olarak çok iyi olan Forrest Gump, zamanla sizi hayal edemeyeceğimiz bir dünyaya götürecektir.. ",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/forestgump.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/forestgump.jpg"
   },
   {
     "isim": "Arkadaş",
@@ -30,7 +30,7 @@
     "sure": "124 dk",
     "oyuncular": "Dakota Johnson, Jason Segel, Isabella Kai",
     "konu": "Nicole’ün yaşamak için sadece altı ayı kalmıştır. Hastalığı nedeniyle karısının öleceğini öğrenen Matthew, büyük bir yıkıma uğrar. Onları bu zorlu dönemlerinde yalnız bırakmak istemeyen Matthew’ın en yakın arkadaşı, destek olabilmek için çiftin evine taşınmaya karar verir.",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/arkadas.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/arkadas.jpg"
   },
   {
     "isim": "Esaretin Bedeli",
@@ -38,7 +38,7 @@
     "imdb": "9,3",
     "sure": "142 dk",
     "konu": "Eyalet Hapishanesinde ömür boyu hapis cezasına çarptırıldı. Oradayken, bir mahkum ve hapishane kaçakçısı olan Ellis Red Redding ile arkadaş olur ve aynı zamanda ömür boyu hapis cezası çeker.",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/esaretinbedeli.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/esaretinbedeli.jpg"
   },
   {
     "isim": "Forest Gump",
@@ -46,6 +46,6 @@
     "imdb": "9,4",
     "sure": "142 dk",
     "konu": "Forrest Gump, zeka seviyesi 75 olan bir erkektir. Zeka seviyesi düşük olduğu için devlet okullarına girmekte bile zorlanan Forrest Gump zamanla akla kendisinden beklenmeyen başarılara imza atıyor.Zeka seviyesi düşük olsa da fiziksel olarak çok iyi olan Forrest Gump, zamanla sizi hayal edemeyeceğimiz bir dünyaya götürecektir.. ",
-    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/main/forestgump.jpg"
+    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/forestgump.jpg"
   }
 ]
