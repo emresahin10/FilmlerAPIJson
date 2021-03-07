@@ -5,7 +5,7 @@
     "imdb": "7,3",
     "sure": "124 dk",
     "konu": "Nicole’ün yaşamak için sadece altı ayı kalmıştır. Hastalığı nedeniyle karısının öleceğini öğrenen Matthew, büyük bir yıkıma uğrar. Onları bu zorlu dönemlerinde yalnız bırakmak istemeyen Matthew’ın en yakın arkadaşı, destek olabilmek için çiftin evine taşınmaya karar verir.",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/arkadas.jpg"
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/arkadas.jpg"
   },
   {
     "isim": "Esaretin Bedeli",
@@ -13,39 +13,78 @@
     "imdb": "9,3",
     "sure": "142 dk",
     "konu": "Eyalet Hapishanesinde ömür boyu hapis cezasına çarptırıldı. Oradayken, bir mahkum ve hapishane kaçakçısı olan Ellis Red Redding ile arkadaş olur ve aynı zamanda ömür boyu hapis cezası çeker.",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/esaretinbedeli.jpg"
-  },
-  {
-    "isim": "Forest Gump",
-    "tur": "Duygusal",
-    "imdb": "9,4",
-    "sure": "142 dk",
-    "konu": "Forrest Gump, zeka seviyesi 75 olan bir erkektir. Zeka seviyesi düşük olduğu için devlet okullarına girmekte bile zorlanan Forrest Gump zamanla akla kendisinden beklenmeyen başarılara imza atıyor.Zeka seviyesi düşük olsa da fiziksel olarak çok iyi olan Forrest Gump, zamanla sizi hayal edemeyeceğimiz bir dünyaya götürecektir.. ",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/forestgump.jpg"
-  },
-  {
-    "isim": "Arkadaş",
-    "tur": "Dram",
-    "imdb": "7,3",
-    "sure": "124 dk",
-    "oyuncular": "Dakota Johnson, Jason Segel, Isabella Kai",
-    "konu": "Nicole’ün yaşamak için sadece altı ayı kalmıştır. Hastalığı nedeniyle karısının öleceğini öğrenen Matthew, büyük bir yıkıma uğrar. Onları bu zorlu dönemlerinde yalnız bırakmak istemeyen Matthew’ın en yakın arkadaşı, destek olabilmek için çiftin evine taşınmaya karar verir.",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/arkadas.jpg"
-  },
-  {
-    "isim": "Esaretin Bedeli",
-    "tur": "Dram",
-    "imdb": "9,3",
-    "sure": "142 dk",
-    "konu": "Eyalet Hapishanesinde ömür boyu hapis cezasına çarptırıldı. Oradayken, bir mahkum ve hapishane kaçakçısı olan Ellis Red Redding ile arkadaş olur ve aynı zamanda ömür boyu hapis cezası çeker.",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/esaretinbedeli.jpg"
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/esaretinbedeli.jpg"
   },
   {
     "isim": "Forest Gump",
     "tur": "Dram",
     "imdb": "9,4",
-    "sure": "142 dk",
+    "sure": "148 dk",
     "konu": "Forrest Gump, zeka seviyesi 75 olan bir erkektir. Zeka seviyesi düşük olduğu için devlet okullarına girmekte bile zorlanan Forrest Gump zamanla akla kendisinden beklenmeyen başarılara imza atıyor.Zeka seviyesi düşük olsa da fiziksel olarak çok iyi olan Forrest Gump, zamanla sizi hayal edemeyeceğimiz bir dünyaya götürecektir.. ",
-    "gorsel": "https://raw.githubusercontent.com/emresahin10/FilmlerAPIJson/main/forestgump.jpg"
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/forestgump.jpg"
+  },
+  {
+    "isim": "Joker",
+    "tur": "Gerilim, Suç",
+    "imdb": "8,5",
+    "sure": "118 dk",
+    "konu": "Joker, başarısız bir komedyen olan Arthur Fleck'in hayatını anlatıyor. Arthur toplum tarafından dışlanıyordur. Gündüzleri geçinmek için palyaço olmaktadır, geceleri ise asla üzerinden silip atamayacağı bir maske takmaktadır. Arthur babasız büyümüştür annesi Happy adıyla çağırır. Arthur’un içindeki acıyı gizlemesine yardımcı olan bir lakaptır. Zorbalıklar onu aykırı hale getirir ve en sonunda suç ve kaosun içine girer. Yeni adı ise JOKER.",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/joker.jpg"
+  },
+  {
+    "isim": "Tom ve Jerry",
+    "tur": "Animasyon",
+    "imdb": "5,3",
+    "sure": "101 dk",
+    "konu": "Genç bir kadın olan Kayla, yeni işi için oldukça heyecanlıdır. Posh Otel’de çalışmaya başlayan Kayla, kendisini kanıtlamak için her şeyi yapmaya hazırdır. Otel’de gerçekleştirilecek olan büyük bir düğün organizasyonunun hazırlığı sürmektedir ve sinir bozucu fare Jerry, düğünü mahvetmek için hazır bir şekilde beklemektedir. İşini garantilemek isteyen ve bu yüzden düğünü herhangi bir şeyin bozmasına engel olmak için çalışan Kalya, Jerry’yi etkilesiz hale getirmenin yolunu arar. Jerry’nin tüm geceyi mahvetmesini önlemek için de Tom adındaki bir sokak kedisinden yardım ister. Şeytani patronunun kendisini kapının önüne koymasını engellemek için Kayla, Tom birlikte hareket edip Jerry’yi durdurmanın yolunu bulmalıdır.",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/tomandjerry.jpg"
+  },
+  {
+    "isim": "Matrix 1",
+    "tur": "Bilim Kurgu",
+    "imdb": "8,7",
+    "sure": "136 dk",
+    "konu": "İşinin ehli bir yazılım firmasında çalışan Thomas Anderson gecelerini  adı altında program kırmak ve Matrix'i araştırmaktır. İnsanların gerçeklik diye algıladığının aslında makineler tarafından yaratılan bir simülasyon olduğunu öğrenir bundan kurtulmak gerektiği için isyancılara katılır. ",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/matrix.jpg"
+  },
+  {
+    "isim": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "tur": "Aksiyon",
+    "imdb": "8,8",
+    "sure": "178 dk",
+    "konu": "İyi ile kötü arasındaki mücadelenin yer aldığı filmin ilk serisinde Sauron'un Yüzüğü'nü yok etmek üzere Frodo, hobbitlere ait huzur dolu harika köyünden ayrılı Frodo Baggins ve Mordor'un bu tehlikeli yolculuğunda karanlık uçurumlara kadar devam etmektedir.   ",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/yuzuklerinefendisi.jpg"
+  },
+  {
+    "isim": "Er Ryan'ı Kurtarmak",
+    "tur": "Savaş",
+    "imdb": "8,6",
+    "sure": "169 dk",
+    "konu": "İkinci Dünya Savaşı sırasında Almanların kontrolünde olan bölgeye sekiz kişilik Amerikalı bir komando birliği girer. 4 çocuğu olan anne 3 çocuğunu kaybetmiştir ve son çocuğu James Ryan'ı kurtarmaktır. ",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/erryanikurtarmak.jpg"
+  },
+  {
+    "isim": "Demir Adam",
+    "tur": "Macera, Bilim Kurgu",
+    "imdb": "7,9",
+    "sure": "126 dk",
+    "konu": "Jet sosyetenin deha sanayicisi olan Iron Man yani Tony Stark düşman topraklarında esir düşer. Kaçarken ölmemesi için yüksek teknolojiye sahip zırh yapar. Eşsiz bir kahraman olan demir adam dünyayı kurtarmayı kendisine görev edinmiştir.  ",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/ironman.jpg"
+  },
+  {
+    "isim": "Titanik",
+    "tur": "Romantik",
+    "imdb": "7,8",
+    "sure": "194 dk",
+    "konu": "Teknolojinin son sürat ilerliyordu. İnsanlar harika işler çıkarıyordu. Titanic adındaki bu dev gemi insanların doğaya tanrılara gösterdiği gövde gösterisidir. Tanrının bile batıramayacağı söylenen gemi gerçekten öyle miydi? Bütün detayları ile harika olan filmde sınıf farklılıklarına göre yaşanan aşlar, sınıf farklılıklarına göre yaşama öncelikleri gibi hayatın içerisinden birçok kesit bulunmakta. Prodüksiyonu çok maliyetli olan film çok fazla ödül kazanmıştır.",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/titanic.jpg"
+  },
+  {
+    "isim": "Diriliş",
+    "tur": "Macera",
+    "imdb": "8,0",
+    "sure": "156 dk",
+    "konu": "Kürk yapabilmek için hayvanlar avlayan bir şirket için çalışan Hugh Glass adındaki bir tuzakçının, bir boz ayı tarafından ölümcül bir şekilde hırpalanır. Daha sonra, kendi ekibi tarafından ölüme terk edilir.",
+    "gorsel": "https://github.com/emresahin10/FilmlerAPIJson/blob/a240e9a2910365ae4fc3867ff7192c448f86ee64/dirilis.jpg"
   }
 ]
